@@ -27,7 +27,7 @@ I'm a passionate developer from Portugal, specializing in web development and au
 
 ### 🚀 Featured Projects
 
-- [Project 1](https://github.com/dblouro/project1): A brief description.
+- [Project 1]([https://github.com/dblouro/project1](https://github.com/dblouro/CarRaceGame)): A retro Car Racing Game made with C#.
 - [Project 2](https://github.com/dblouro/project2): Another cool project.
 
 ---
