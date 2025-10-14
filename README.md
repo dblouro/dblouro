@@ -2,9 +2,7 @@
 
 I'm a passionate developer from Portugal, specializing in web development and automation. I love running, tech, and building cool stuff!
 
-🔭 I’m currently learning **React and Node.js** <br>
 💬 Ask me about **brainstorming web developer ideias, or running tips!** <br>
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dblouro/)
 
 ---
 
@@ -36,7 +34,7 @@ I'm a passionate developer from Portugal, specializing in web development and au
 ### 🚀 Featured Projects
 
 - [Project 1](https://github.com/dblouro/CarRaceGame): A retro Car Racing Game made with C#.
-- [Project 2](https://github.com/dblouro/project2): Another cool project.
+- [Project 2](https://github.com/dblouro/PFTracker): Another cool project.
 
 ---
 
