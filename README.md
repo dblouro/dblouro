@@ -24,11 +24,11 @@ I'm a passionate developer from Portugal, specializing in web development and au
 ---
 
 ### 📊 GitHub Stats
-[center]
+<div style="display: flex; flex-direction: row;">
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dblouro&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dblouro&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dblouro&theme=dark)
-[/center]
+</div>
 ---
 
 ### 🚀 Featured Projects
