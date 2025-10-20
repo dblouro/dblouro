@@ -32,12 +32,7 @@ I'm a passionate developer from Portugal, specializing in web development and au
 
 ---
 
-### 🚀 Featured Projects
 
-- [Project 1](https://github.com/dblouro/CarRaceGame): A retro Car Racing Game made with C#.
-- [Project 2](https://github.com/dblouro/PFTracker): Another cool project.
-
----
 
 ### 🌍 Let's Connect!
 
@@ -56,4 +51,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🚀 Featured Projects
+
+- [Project 1](https://github.com/dblouro/CarRaceGame): A retro Car Racing Game made with C#.
+- [Project 2](https://github.com/dblouro/PFTracker): Another cool project.
+
+---
 -->
