@@ -1,6 +1,7 @@
 # Welcome!👋
 
 My name is **Diogo Louro** and I enjoy turning complex boring datasets into clear, actionable insights and building tools that make processes more efficient and data more meaningful.
+
 💡 Curious by nature, I enjoy exploring business logic and how automation, analytics, and development intersect to solve real-world problems.
 🏃 Outside of work, you’ll find me running, exploring new tech, or lost in philosophical thought.
 
